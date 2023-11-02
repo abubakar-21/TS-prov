@@ -1,0 +1,18 @@
+{
+  "name": "typescript-prov-fjs22-main",
+  "version": "1.0.0",
+  "description": "**Tid 9.30 - 12.00 torsdag 2 november i sal 5.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "zod": "^3.22.4"
+  }
+}
